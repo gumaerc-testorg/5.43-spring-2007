@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains a sample solution to Problem Set 3, Question 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-43-advanced-organic-chemistry-spring-2007/0bb352dce6703c998fe2ca1f0a69c059_ps3q2.pdf
+file: /media/courses/5-43-advanced-organic-chemistry-spring-2007/0bb352dce6703c998fe2ca1f0a69c059_ps3q2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3q2.pdf
 uid: 0bb352dc-e670-3c99-8fe2-ca1f0a69c059

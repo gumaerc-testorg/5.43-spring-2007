@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes a practice exam for the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-43-advanced-organic-chemistry-spring-2007/e329997b5b91d6495be638bd75aaa509_practiceexam2.pdf
+file: /media/courses/5-43-advanced-organic-chemistry-spring-2007/e329997b5b91d6495be638bd75aaa509_practiceexam2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: practiceexam2.pdf
 uid: e329997b-5b91-d649-5be6-38bd75aaa509
