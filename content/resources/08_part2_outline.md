@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fdb09b2d-1a08-e3ae-ee1d-c0ba6222539a
 resourcetype: Document
 title: 08_part2_outline.pdf
 uid: f1415680-002c-fc8e-fe58-c02915b25138

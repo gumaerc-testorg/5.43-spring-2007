@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fdb09b2d-1a08-e3ae-ee1d-c0ba6222539a
 resourcetype: Document
 title: practiceexam2.pdf
 uid: e329997b-5b91-d649-5be6-38bd75aaa509
