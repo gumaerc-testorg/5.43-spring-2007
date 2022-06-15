@@ -1,9 +1,11 @@
 ---
 content_type: page
+description: This section provides examples of exams for the course, practice exams,
+  and a sample solution provided as an example of what is considered a thorough answer
+  to an exam question.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
-parent_uid: null
 title: Exams
 uid: 2952445d-160e-0add-6336-940963e989d1
 ---
@@ -38,9 +40,9 @@ L1-L8
 {{< tdopen >}}
 
 
-Practice exam 1 ({{< resource_link 8701a003-2106-4861-4dbf-f73851d1e941 "PDF" >}})
+Practice exam 1 ({{% resource_link 8701a003-2106-4861-4dbf-f73851d1e941 "PDF" %}})
 
-Exam 1 ({{< resource_link 7b3e2cfa-6a0a-6e6b-2a1b-f8b84f67ce6d "PDF" >}})
+Exam 1 ({{% resource_link 7b3e2cfa-6a0a-6e6b-2a1b-f8b84f67ce6d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -56,11 +58,11 @@ L9-L15
 {{< tdopen >}}
 
 
-Practice exam 2 ({{< resource_link e329997b-5b91-d649-5be6-38bd75aaa509 "PDF" >}})
+Practice exam 2 ({{% resource_link e329997b-5b91-d649-5be6-38bd75aaa509 "PDF" %}})
 
-Exam 2 ({{< resource_link 8c4ad907-9bd4-a430-702d-bc1b6a47ff27 "PDF" >}})
+Exam 2 ({{% resource_link 8c4ad907-9bd4-a430-702d-bc1b6a47ff27 "PDF" %}})
 
-Sample solution ({{< resource_link 978e7801-2d5e-ad00-e264-874cecb8c3ae "PDF" >}})
+Sample solution ({{% resource_link 978e7801-2d5e-ad00-e264-874cecb8c3ae "PDF" %}})
 
 
 {{< tdclose >}}

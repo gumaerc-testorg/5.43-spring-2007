@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section includes a schedule of lecture topics, and lecture handouts
+  for the first half of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: fdb09b2d-1a08-e3ae-ee1d-c0ba6222539a
 ---
@@ -34,7 +35,7 @@ HANDOUTS
 Stereochemistry
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 1 handout ({{< resource_link aa309742-554b-bcc8-f7f1-e1dc477d8076 "PDF" >}})
+Lecture 1 handout ({{% resource_link aa309742-554b-bcc8-f7f1-e1dc477d8076 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,9 +85,9 @@ Elucidating reaction mechanisms
 {{< tdopen >}}
 
 
-Lecture 5 handout ({{< resource_link 241c265b-b4d2-f79c-c997-7e4a09648a26 "PDF" >}})
+Lecture 5 handout ({{% resource_link 241c265b-b4d2-f79c-c997-7e4a09648a26 "PDF" %}})
 
-Topic outline 1 ({{< resource_link 9bc0adb7-6ac1-14c1-e716-98b496df1a98 "PDF" >}})
+Topic outline 1 ({{% resource_link 9bc0adb7-6ac1-14c1-e716-98b496df1a98 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -112,7 +113,7 @@ Elucidating reaction mechanisms (cont.)
 Elucidating reaction mechanisms (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Practice exam 1 ({{< resource_link 8701a003-2106-4861-4dbf-f73851d1e941 "PDF" >}})
+Practice exam 1 ({{% resource_link 8701a003-2106-4861-4dbf-f73851d1e941 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Practice exam 1 ({{< resource_link 8701a003-2106-4861-4dbf-f73851d1e941 "PDF" >}
 Free radical reactions
 {{< tdclose >}}
 {{< tdopen >}}
-Topic outline 2 ({{< resource_link f1415680-002c-fc8e-fe58-c02915b25138 "PDF" >}})
+Topic outline 2 ({{% resource_link f1415680-002c-fc8e-fe58-c02915b25138 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ Free radical reactions (cont.)
 Free radical reactions (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 11 handout ({{< resource_link fa7e7cf1-671c-db0b-872e-6d3b9bb5e18f "PDF" >}})
+Lecture 11 handout ({{% resource_link fa7e7cf1-671c-db0b-872e-6d3b9bb5e18f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +221,7 @@ Photochemistry/Carbenes
 Carbenes
 {{< tdclose >}}
 {{< tdopen >}}
-Practice exam 2 ({{< resource_link e329997b-5b91-d649-5be6-38bd75aaa509 "PDF" >}})
+Practice exam 2 ({{% resource_link e329997b-5b91-d649-5be6-38bd75aaa509 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
