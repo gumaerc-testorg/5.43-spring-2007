@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required texts for the course and
+  due dates for readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 889983fb-5319-d56b-fafd-f51ca8344412
 ---
