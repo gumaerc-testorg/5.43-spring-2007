@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a practice exam for the course.
-file: /courses/5-43-advanced-organic-chemistry-spring-2007/e329997b5b91d6495be638bd75aaa509_practiceexam2.pdf
+file: /ol-ocw-studio-app/courses/5-43-advanced-organic-chemistry-spring-2007/e329997b5b91d6495be638bd75aaa509_practiceexam2.pdf
 file_size: 174900
 file_type: application/pdf
 learning_resource_types:
