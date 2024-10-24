@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a sample solution to Problem Set 3, Question 2.
-file: /courses/5-43-advanced-organic-chemistry-spring-2007/0bb352dce6703c998fe2ca1f0a69c059_ps3q2.pdf
+file: /ol-ocw-studio-app/courses/5-43-advanced-organic-chemistry-spring-2007/0bb352dce6703c998fe2ca1f0a69c059_ps3q2.pdf
 file_size: 53392
 file_type: application/pdf
 learning_resource_types:
