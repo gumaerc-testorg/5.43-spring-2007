@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Problem Set 4 for the course.
-file: /ol-ocw-studio-app/courses/5-43-advanced-organic-chemistry-spring-2007/2537fabaf12e51fc8b6c809186948aee_ps_4.pdf
+file: /courses/5-43-advanced-organic-chemistry-spring-2007/2537fabaf12e51fc8b6c809186948aee_ps_4.pdf
 file_size: 105830
 file_type: application/pdf
 learning_resource_types:
